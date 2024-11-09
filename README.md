@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Command Prompt Skills</b>
-  - [Learning Basic Command Prompts skills ](https://github.com/Adrihannathanielhatcher/VPN-Networks-Around-Us)
+  - [Learning Basic Command Prompts skills ](https://github.com/Adrihannathanielhatcher/Command-Prompt-Skills)
   - 
 - <b>VPN & The Networks Around US</b>
   - [Configuring VPNs Through Virtual Machines](https://github.com/Adrihannathanielhatcher/VPN-Networks-Around-Us)
