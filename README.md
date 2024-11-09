@@ -3,12 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Command Prompt Skills</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AdrihanHatcher/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/AdrihanHatcher/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AdrihanHatcher/ticket-lifecycle)
+  - [Learning Basic Command Prompts skills ](https://github.com/Adrihannathanielhatcher/VPN-Networks-Around-Us)
+  - 
 - <b>VPN & The Networks Around US</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdrihanHatcher/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AdrihanHatcher/azure-network-protocols)
+  - [Configuring VPNs Through Virtual Machines](https://github.com/Adrihannathanielhatcher/VPN-Networks-Around-Us)
+  - 
 
 <h2>🤳Connect with me:</h2>
 
