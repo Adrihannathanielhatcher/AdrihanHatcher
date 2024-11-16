@@ -9,7 +9,7 @@
   - [Configuring VPNs Through Virtual Machines](https://github.com/Adrihannathanielhatcher/VPN-Networks-Around-Us)
  
 - <b> OS Ticket Configuration (Pre & Post) </b>
-  - [OS Ticket Pre Installation/ Configured Through Microsoft Azure ](https://github.com/Adrihannathanielhatcher/VPN-Networks-Around-Us)
+  - [OS Ticket Pre Installation/ Configured Through Microsoft Azure ](https://github.com/Adrihannathanielhatcher/OS-Ticket-Configuration-)
 
 <h2>🤳Connect with me:</h2>
 
